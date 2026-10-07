@@ -1,0 +1,2 @@
+seleniumbase>=4.50
+websocket-client>=1.6
